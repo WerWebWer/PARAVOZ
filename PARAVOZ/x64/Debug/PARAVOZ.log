@@ -1,0 +1,13 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\admin\desktop\paravoz\paravoz\form1.h(157): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(158): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(159): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(160): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(181): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(182): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(230): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(231): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(239): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\paravoz\paravoz\form1.h(240): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PARAVOZ.vcxproj -> C:\Users\Admin\Desktop\PARAVOZ\x64\Debug\PARAVOZ.exe
